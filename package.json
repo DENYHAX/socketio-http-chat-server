@@ -1,0 +1,6 @@
+{
+  "name": "socketio-http-chat-server",
+  "version": "0.0.1",
+  "description": "Basic socket.io chat server",
+  "dependencies": {}
+}
